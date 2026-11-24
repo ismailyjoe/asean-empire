@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "ASEAN Empire",
+  "short_name": "ASEAN Empire",
+  "description": "A 30-day ASEAN trading strategy game. Made by IBJ.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1320",
+  "theme_color": "#0c1523",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
